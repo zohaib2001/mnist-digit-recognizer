@@ -1,7 +1,7 @@
-torch==2.2.2
-torchvision==0.17.2
-numpy==1.26.4
-matplotlib==3.11.0
-streamlit==1.58.0
-streamlit-drawable-canvas==0.9.3
-pillow==12.2.0
+torch
+torchvision
+numpy<2
+matplotlib
+streamlit
+streamlit-drawable-canvas
+pillow
