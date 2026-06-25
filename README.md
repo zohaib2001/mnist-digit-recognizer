@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## 📁 File Structure
+## ⿻ File Structure
 
 ```
 mnist-digit-recognizer/
@@ -130,7 +130,7 @@ mnist-digit-recognizer/
 
 ---
 
-## 📊 Results
+## ▀▄▀▄▀▄ Results
 
 | Parameter | Value |
 | :--- | :--- |
@@ -146,7 +146,7 @@ The model correctly identified **9,790 out of 10,000** handwritten digits it had
 
 ---
 
-## 💡 What I Learned
+## ˗ˏˋ ★ ˎˊ˗ What I Learned
 
 * **Data pipelines** — loading, transforming, and batching images with `DataLoader`
 * **Neural network anatomy** — what layers, activations, and dropout actually do
